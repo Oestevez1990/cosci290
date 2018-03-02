@@ -20,8 +20,8 @@ public static void main(String [] args){      //Main Method, The start point of 
     Scanner input = new Scanner(System.in);  //instantiate the Scanner object
    
   //variable declarations with default values
-  int operand1 ;  //Datatype with indentifier and value of 1
-  int operand2 ;  //Datatype with identifier and value of 9
+  int operand1 ;  //Datatype with indentifier 
+  int operand2 ;  //Datatype with identifier 
     
 System.out.println("please enter in a whole new number...");  // Initial output/ Print out ("")
   
