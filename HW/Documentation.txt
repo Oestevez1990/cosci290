@@ -1,0 +1,27 @@
+/*
+Omar Estevez 
+CoSci 290
+3/8/18
+Group 1 HW
+
+ Write a list of objects/classes you would use in your text adventure. 
+
+    For example, if you were writing a Zombie-based adventure, your list of objects could be: Zombie, Weapon, Food, etc.
+    Turn this in as a text file called Documentation and push it to your github.
+
+
+I am writing a Sim Dating Game called Kathy
+
+
+  List of Items I am planning to incorporate 
+
+* Food
+* Music
+* Books
+* Gift
+* Flowers
+* Jewelry
+* Movie Tickets
+* Concert
+* pets
+* art
