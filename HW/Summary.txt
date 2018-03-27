@@ -1,0 +1,28 @@
+Omar Estevez 
+Co Sci 290 
+3/22/18
+Documentation text file for adventure
+
+Write a short summary of what your game is about. Title this section "Summary".
+In the section where you listed out objects for your text adventure for HW2, 
+title this section "Objects used".title
+
+Summary -  "Kathy is a dating simulation text adventure game. you are the main character 
+that is trying to winthe heart of Kathy. You have many utilities at your disposal to accomplish 
+this. You can purchase gifts and give them to Kathy to win her over. You will decide where 
+to go on romantic dates. you will work and get promotions to cover expenses and demonstrate
+that you take her serious. Make the right choices before the year ends and see if you
+have what Kathy is looking for. Be careful, she might not be as pleasent as you make her out to be.have
+
+Objects used:
+
+Gifts (classes)
+jewelery 
+flowers 
+food 
+books 
+movie tickets 
+concert
+art
+pet
+music
