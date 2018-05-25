@@ -33,14 +33,14 @@ Omar Estevez
       numbers[i] = (int) (Math.random() * 100) + 1;
     }  
     
-    // print out each element (interate the array)
-    for (int i = 0; i < 6; i++){
-      System.out.println (numbers[i] + "");
-      
-    }
-    
-    System.out.println(numbers[4]);
-    
+  // print out each element (interate the array)
+  for (int i = 0; i < 6; i++){
+    System.out.println (numbers[i] + "");
+
+  }
+
+  System.out.println(numbers[4]);
+
     
   } // end main
   } // end class
