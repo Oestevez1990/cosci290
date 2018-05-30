@@ -20,7 +20,7 @@ public class Lab22{
       //  array value 
       int[] num = new int[15]; 
 
-        // for loop with equation and andom num
+        // for loop with equation and random num
         for (int i = 1; i <= 200; i++) {
         num [(int)(Math.random() * 15)]++;
     
