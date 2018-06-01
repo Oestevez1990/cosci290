@@ -1,6 +1,6 @@
 /* 
   
-  Omar Estevez
+  Omar Estevez 
   Co Sci 290
   
   This application will run the start and first few features of a text-based
