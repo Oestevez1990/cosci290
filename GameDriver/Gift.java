@@ -1,6 +1,6 @@
 /*
-	Text Adventure:	Kathy
-	Author:			Mike Plata
+Omar Estevez
+Gifts
 */
 
 public class Gift{

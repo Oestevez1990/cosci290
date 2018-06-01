@@ -12,7 +12,7 @@ FYI Proffessor Tuy We Decided to chage the game topic from space horror to Datin
 
 import java.util.Scanner;
 
-public class GameDriver1 {
+public class Lab16 {
   
  // Start of Application
   public static void main(String [] args){

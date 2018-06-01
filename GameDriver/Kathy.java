@@ -1,6 +1,6 @@
 /*
-	Text Adventure:	Kathy
-	Author:			Giovanni Pernudi
+Omar Estevez
+Text Adventure
 */
 
 public class Kathy{
